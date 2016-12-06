@@ -1,0 +1,3 @@
+('Colonia La Condesa del df,Calle Venustiano Carranza '); 
+('Colonia Hacienda de Ojo de Agua,Calle Fresas con crema '); 
+('Colonia Los Olivos  de ozumbilla,Calle Palma de lopez'); 
